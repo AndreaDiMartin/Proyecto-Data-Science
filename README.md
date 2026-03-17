@@ -2,7 +2,7 @@
 
 ## Sistema de Alerta Temprana (Clients Churn Rate)
 
-<img width="1290" height="724" alt="image" src="https://github.com/user-attachments/assets/2c8297e1-deb8-49f6-a3bd-27f6cebcddca" />
+<img width="1426" height="804" alt="image" src="https://github.com/user-attachments/assets/a5b5c664-b70a-4eec-89b6-537832e7df92" />
 
 ## Directorio
 
