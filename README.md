@@ -1,7 +1,6 @@
-# Prueba-Tecnica-Dro-Nena
-Repositorio creado para la prueba técnica de la Droguería Nena como parte de la selección para el cargo Científico de Datos
+# Proyecto de Ciencia de Datos
 
-## Problema 3: Sistema de Alerta Temprana (Churn Rate)
+## Sistema de Alerta Temprana (Clients Churn Rate)
 
 <img width="1290" height="724" alt="image" src="https://github.com/user-attachments/assets/2c8297e1-deb8-49f6-a3bd-27f6cebcddca" />
 
